@@ -1,3 +1,1 @@
-Task 7 - Public GitHub URL of Register.jsx
-Paste URL below:
-https://github.com/<your-username>/<your-repo>/blob/main/server/frontend/src/components/Register/Register.jsx
+https://github.com/prasadmanish8081/cars-dealership-capstone/blob/main/server/frontend/src/components/Register/Register.jsx

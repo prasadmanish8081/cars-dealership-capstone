@@ -1,5 +1,2 @@
-Task 14 and 15 - cURL get all car makes and models
-Paste exact command and output below.
-Example format:
-curl -X GET "http://<host>/djangoapp/get_cars"
-<response output>
+curl -X GET "http://127.0.0.1:8000/djangoapp/get_cars"
+{"status":200,"cars":[{"make":"Toyota","model":"Corolla"},{"make":"Honda","model":"Civic"},{"make":"Ford","model":"Escape"}]}

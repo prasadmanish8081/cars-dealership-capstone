@@ -1,5 +1,9 @@
-Task 2 - Django server running output
-Paste terminal command + output below.
-Example:
 python manage.py runserver
-<server running logs>
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 03, 2026 - 14:12:44
+Django version 4.2.16, using settings 'djangoproj.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.

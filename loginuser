@@ -1,5 +1,2 @@
-Task 5 - cURL login command and output
-Paste exact command and output below.
-Example format:
-curl -X POST "http://<host>/djangoapp/login" -H "Content-Type: application/json" -d '{"username":"<user>","password":"<pass>"}'
-<response output>
+curl -X POST "http://127.0.0.1:8000/djangoapp/login" -H "Content-Type: application/json" -d "{\"username\":\"admin\",\"password\":\"pass123\"}"
+{"username":"admin","status":"Authenticated"}

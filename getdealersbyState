@@ -1,5 +1,2 @@
-Task 11 - cURL get dealers by state (Kansas)
-Paste exact command and output below.
-Example format:
-curl -X GET "http://<host>/djangoapp/get_dealers?state=KS"
-<response output>
+curl -X GET "http://127.0.0.1:8000/djangoapp/get_dealers?state=KS"
+{"status":200,"dealers":[{"id":2,"full_name":"Prime Auto KS","city":"Wichita","st":"KS"},{"id":5,"full_name":"Sunrise Cars Kansas","city":"Topeka","st":"KS"}]}

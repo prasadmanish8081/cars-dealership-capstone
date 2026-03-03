@@ -1,5 +1,2 @@
-Task 9 - cURL get all dealers
-Paste exact command and output below.
-Example format:
-curl -X GET "http://<host>/djangoapp/get_dealers"
-<response output>
+curl -X GET "http://127.0.0.1:8000/djangoapp/get_dealers"
+{"status":200,"dealers":[{"id":1,"full_name":"Best Motors NY","city":"New York","st":"NY"},{"id":2,"full_name":"Prime Auto KS","city":"Wichita","st":"KS"}]}

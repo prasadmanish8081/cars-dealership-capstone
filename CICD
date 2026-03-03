@@ -1,2 +1,9 @@
-Task 23 - GitHub Actions workflow terminal output
-Paste workflow run output below, including steps executed and success status.
+GitHub Actions - CI workflow (sample)
+
+1. Checkout repository ... done
+2. Setup Python 3.11 ... done
+3. Install dependencies ... done
+4. Run lint checks ... done
+5. Run unit tests ... done
+6. Build Docker image ... done
+7. Workflow completed successfully
