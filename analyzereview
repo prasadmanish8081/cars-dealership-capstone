@@ -1,0 +1,5 @@
+Task 16 - cURL sentiment analysis for "Fantastic services"
+Paste exact command and output below.
+Example format:
+curl -X POST "http://<host>/djangoapp/analyze_review" -H "Content-Type: application/json" -d '{"review":"Fantastic services"}'
+<response output>

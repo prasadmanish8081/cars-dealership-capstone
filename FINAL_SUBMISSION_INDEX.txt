@@ -1,0 +1,87 @@
+FULL-STACK CAPSTONE ASSIGNMENT SUBMISSION (All 28 Tasks)
+
+1) README URL:
+   File: README_URL.txt
+
+2) Django server output:
+   File: django_server
+
+3) About page URL:
+   File: About_URL.txt
+
+4) Contact page URL:
+   File: Contact_URL.txt
+
+5) Login cURL + output:
+   File: loginuser
+
+6) Logout cURL + output:
+   File: logoutuser
+
+7) Register page URL:
+   File: Register_URL.txt
+
+8) Dealer reviews cURL + output:
+   File: getdealerreviews
+
+9) All dealers cURL + output:
+   File: getalldealers
+
+10) Dealer by ID cURL + output:
+    File: getdealerbyid
+
+11) Dealers by State (Kansas) cURL + output:
+    File: getdealersbyState
+
+12) Admin login screenshot:
+    File: admin_login.png or admin_login.jpeg
+
+13) Admin logout screenshot:
+    File: admin_logout.png or admin_logout.jpeg
+
+14/15) All car makes and models cURL + output:
+      File: getallcarmakes
+
+16) Analyze review cURL + output:
+    File: analyzereview
+
+17) Dealers home page before login screenshot:
+    File: get_dealers.png or get_dealers.jpeg
+
+18) Dealers home page after login screenshot:
+    File: get_dealers_loggedin.png or get_dealers_loggedin.jpeg
+
+19) Dealers filtered by state screenshot:
+    File: dealersbystate.png or dealersbystate.jpeg
+
+20) Dealer details + reviews screenshot:
+    File: dealer_id_reviews.png or dealer_id_reviews.jpeg
+
+21) Post Review page before submission screenshot:
+    File: dealership_review_submission.png or dealership_review_submission.jpeg
+
+22) Added review screenshot:
+    File: added_review.png or added_review.jpeg
+
+23) CI/CD workflow output:
+    File: CICD
+
+24) Deployment URL:
+    File: deploymentURL
+
+25) Deployed landing page screenshot:
+    File: deployed_landingpage.png or deployed_landingpage.jpeg
+
+26) Deployed logged-in page screenshot:
+    File: deployed_loggedin.png or deployed_loggedin.jpeg
+
+27) Deployed dealer detail screenshot:
+    File: deployed_dealer_detail.png or deployed_dealer_detail.jpeg
+
+28) Deployed added review screenshot:
+    File: deployed_add_review.png or deployed_add_review.jpeg
+
+IMPORTANT:
+- .png files currently placeholders. Replace with real screenshots.
+- Keep browser address bar visible where required.
+- Keep username visible for logged-in screenshots.

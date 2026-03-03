@@ -1,0 +1,87 @@
+Capstone Assignment Submission Checklist (28 Tasks)
+
+Task 1
+- Put public GitHub URL of README.md in README_URL.txt
+
+Task 2
+- Paste Django server running output in django_server
+
+Task 3
+- Put public GitHub URL of server/frontend/static/About.html in About_URL.txt
+
+Task 4
+- Put public GitHub URL of server/frontend/static/Contact.html in Contact_URL.txt
+
+Task 5
+- Paste cURL command + output for login in loginuser
+
+Task 6
+- Paste cURL command + output for logout in logoutuser
+
+Task 7
+- Put public GitHub URL of server/frontend/src/components/Register/Register.jsx in Register_URL.txt
+
+Task 8
+- Paste cURL command + output for dealer reviews in getdealerreviews
+
+Task 9
+- Paste cURL command + output for all dealers in getalldealers
+
+Task 10
+- Paste cURL command + output for dealer by id in getdealerbyid
+
+Task 11
+- Paste cURL command + output for Kansas state dealers in getdealersbyState
+
+Task 12
+- Add screenshot file admin_login.png (or .jpeg)
+
+Task 13
+- Add screenshot file admin_logout.png (or .jpeg)
+
+Task 14/15
+- Paste cURL command + output for all car makes/models in getallcarmakes
+
+Task 16
+- Paste cURL command + output for sentiment on "Fantastic services" in analyzereview
+
+Task 17
+- Add screenshot file get_dealers.png (or .jpeg)
+
+Task 18
+- Add screenshot file get_dealers_loggedin.png (or .jpeg)
+
+Task 19
+- Add screenshot file dealersbystate.png (or .jpeg)
+
+Task 20
+- Add screenshot file dealer_id_reviews.png (or .jpeg)
+
+Task 21
+- Add screenshot file dealership_review_submission.png (or .jpeg)
+
+Task 22
+- Add screenshot file added_review.png (or .jpeg)
+
+Task 23
+- Paste GitHub Actions workflow output in CICD
+
+Task 24
+- Put deployment URL in deploymentURL
+
+Task 25
+- Add screenshot file deployed_landingpage.png
+
+Task 26
+- Add screenshot file deployed_loggedin.png
+
+Task 27
+- Add screenshot file deployed_dealer_detail.png
+
+Task 28
+- Add screenshot file deployed_add_review.png
+
+Notes
+- Replace placeholder image files with real screenshots.
+- Keep endpoint visible in screenshots where required.
+- Use public GitHub links (not local file paths).

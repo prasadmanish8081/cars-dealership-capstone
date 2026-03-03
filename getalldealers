@@ -1,0 +1,5 @@
+Task 9 - cURL get all dealers
+Paste exact command and output below.
+Example format:
+curl -X GET "http://<host>/djangoapp/get_dealers"
+<response output>

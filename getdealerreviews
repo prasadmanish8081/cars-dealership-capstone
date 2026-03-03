@@ -1,0 +1,5 @@
+Task 8 - cURL get dealer reviews (any dealer id)
+Paste exact command and output below.
+Example format:
+curl -X GET "http://<host>/djangoapp/get_reviews/dealer/<dealer_id>"
+<response output>

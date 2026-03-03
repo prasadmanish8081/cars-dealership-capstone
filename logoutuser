@@ -1,0 +1,5 @@
+Task 6 - cURL logout command and output
+Paste exact command and output below.
+Example format:
+curl -X GET "http://<host>/djangoapp/logout"
+<response output>
